@@ -1,0 +1,16 @@
+{
+  "name": "unordered-times-tables",
+  "version": "1.0.0",
+  "description": "Save an unordered list of times tables to csv",
+  "author": "Paul Desmond Parker",
+  "license": "ISC",
+  "repository": "sunwukonga/unordered-times-tables",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "papaparse": "^4.6.3"
+  }
+}
