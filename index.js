@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Papa = require('papaparse')
 var fs = require('fs')
 

@@ -27,14 +27,14 @@ Produces:
 ----------------------------------------------------------------------
 Unordered Times Table Question Generator
 ----------------------------------------------------------------------
-Purpose: Saves to csv ('random-tt.csv') a list of all times table combinations below a given number
+Purpose: Saves to csv ('unordered-tt.csv') a list of all times table combinations below a given number
 usage: npm start [#] [minimal] [help]
 	Where:
 		`#` may be an integer between 2 and 100; default: 12
 		`minimal` removes all commutative duplicates
 		`help` prints this helpful notice
 Example: npm start 10 minimal
-	Saves non-duplicate times tables below 10 x 10 to `random-tt.csv`
+	Saves non-duplicate times tables below 10 x 10 to `unordered-tt.csv`
 ----------------------------------------------------------------------
 ```
 
