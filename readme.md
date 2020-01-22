@@ -1,5 +1,10 @@
 # Unordered Times Tables
 
+TEST
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+
 ### Use cases
 * You want to teach or test your child's times tables, but don't want to write out hundreds and hundreds of sums by hand (a table is faster, but it is too easy to count the answers rather than rely on memory).
 * Your child already uses a resource such as [zetamac.com](zetamac.com) and has a good recall in front of a computer, but seems incapable of achieving the same ease using pen and paper, or when quizzed orally.
